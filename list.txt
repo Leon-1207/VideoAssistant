@@ -1,0 +1,2 @@
+file 'C:\Users\leonm\PycharmProjects\VideoAssistent\output_clip1.mp4'
+file 'C:\Users\leonm\PycharmProjects\VideoAssistent\output_clip2.mp4'
