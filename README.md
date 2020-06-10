@@ -29,7 +29,7 @@ If you have installed VLC at another location, you can simply move to the path m
 2. Load a video file (in the upper menu: Video -> Open Video)
 3. Name your tags (otherwise the are called A, B, C, D) (menu: Tag -> Edit Tags)
 4. Start tagging [Tagging](https://github.com/Leon-1207/VideoAssistant/blob/master/README.md#tagging)
-5. (optional) Save your work (STRG/ CTRL + s or menu: File -> Save Data)
+5. (optional) Save your work (strg/ ctrl + s or menu: File -> Save Data)
 6. Render the result(s) (menu: Video -> Render Video)
 
 ## Tagging
