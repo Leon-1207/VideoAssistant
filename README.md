@@ -28,9 +28,12 @@ If you have installed VLC at another location, you can simply move to the path m
 1. Run video_assistant.exe
 2. Load a video file (in the upper menu: Video -> Open Video)
 3. Name your tags (otherwise the are called A, B, C, D) (menu: Tag -> Edit Tags)
-4. Start tagging
+4. Start tagging [Tagging]()
 5. (optional) Save your work (STRG/ CTRL + s or menu: File -> Save Data)
 6. Render the result(s) (menu: Video -> Render Video)
+
+## Tagging
+...
 
 ## License
 [GNU General Public License v3.0](./LICENSE)
