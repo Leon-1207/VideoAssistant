@@ -33,7 +33,25 @@ If you have installed VLC at another location, you can simply move to the path m
 6. Render the result(s) (menu: Video -> Render Video)
 
 ## Tagging
-...
+ * Red marked parts of the video wont be in the output video
+ * Each color (except red) represents a tag
+ * You can use up to four different tags
+ * Parts of the video can be marked by pressing "y" to start the tagging. Pressing "y" again will end the tagging, the time between start and end will be marked with the selected tag.
+ * Switch the selected tag by pressing "a", "b", "c" or "d" ("a" -> select tag A, "b" --> select tag B ...)
+ * To mark parts of the video red/ overwrite existing marked sequences press press "x". It works like pressing "y" except that the sequence will be marked red.
+ * Use "m" to cancel the tagging (after you have pressed "y" or "x")
+ * Alternatively to pressing "c" you can tag a previously set interval by pressing "v" (to adjust it: menu: Tag -> Open Tagging Settings)
+ 
+## Keyboard shortcuts
+ * y: start/ end tagging
+ * x: start/ end tagging (red)
+ * m: cancel tagging
+ * v: tag interval
+ * a/ b/ c/ d: select tag
+ * SPACE: play/ pause video
+ * left arrow: rewind
+ * right arrow: fast forward
+ * Ctrl + s/ Strg + s: Save
 
 ## License
 [GNU General Public License v3.0](./LICENSE)
